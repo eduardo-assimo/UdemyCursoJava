@@ -2,13 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d4dba1-f3ff-429a-a848-8dd495229471" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio1/SomaValores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio2/AreaCirculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio3/CalculoDiferencaProduto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio4/CalculoSalario.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio5/CalculoValoresDasPecas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio6/CalculoDeAreas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio1/VerificarSeNumeroNegativoOuNao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio2/VerificarNumeroParOuImpar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio3/VerificarSeNumerosSaoMultiplos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio4/CalcularTempoDeJogo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio5/CalcularValorDaConta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio6/VerificarIntervalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio7/VerificarEixoQuadrante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaCondicional/exercicio8/CalcularValorDoImposto.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio1/SomaValores.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio1/SomaValores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio2/AreaCirculo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio2/AreaCirculo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio3/CalculoDiferencaProduto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio3/CalculoDiferencaProduto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio4/CalculoSalario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio4/CalculoSalario.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio5/CalculoValoresDasPecas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio5/CalculoValoresDasPecas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio6/CalculoDeAreas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/exerciciosEstruturaSequencial/exercicio6/CalculoDeAreas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,19 +47,20 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.CalculoDeAreas">
-    <configuration name="AreaCirculo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaSequencial.exercicio2.AreaCirculo" />
+  <component name="RunManager" selected="Application.CalcularValorDoImposto">
+    <configuration name="CalcularTempoDeJogo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaCondicional.exercicio4.CalcularTempoDeJogo" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.exerciciosEstruturaSequencial.exercicio2.*" />
+          <option name="PATTERN" value="com.java.exerciciosEstruturaCondicional.exercicio4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -58,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoDeAreas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaSequencial.exercicio6.CalculoDeAreas" />
+    <configuration name="CalcularValorDaConta" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaCondicional.exercicio5.CalcularValorDaConta" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.exerciciosEstruturaSequencial.exercicio6.*" />
+          <option name="PATTERN" value="com.java.exerciciosEstruturaCondicional.exercicio5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoDiferencaProduto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaSequencial.exercicio3.CalculoDiferencaProduto" />
+    <configuration name="CalcularValorDoImposto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaCondicional.exercicio8.CalcularValorDoImposto" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.exerciciosEstruturaSequencial.exercicio3.*" />
+          <option name="PATTERN" value="com.java.exerciciosEstruturaCondicional.exercicio8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoSalario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaSequencial.exercicio4.CalculoSalario" />
+    <configuration name="VerificarEixoQuadrante" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaCondicional.exercicio7.VerificarEixoQuadrante" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.exerciciosEstruturaSequencial.exercicio4.*" />
+          <option name="PATTERN" value="com.java.exerciciosEstruturaCondicional.exercicio7.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculoValoresDasPecas" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaSequencial.exercicio5.CalculoValoresDasPecas" />
+    <configuration name="VerificarIntervalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.java.exerciciosEstruturaCondicional.exercicio6.VerificarIntervalo" />
       <module name="UdemyCursoJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.java.exerciciosEstruturaSequencial.exercicio5.*" />
+          <option name="PATTERN" value="com.java.exerciciosEstruturaCondicional.exercicio6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalculoDeAreas" />
-        <item itemvalue="Application.CalculoValoresDasPecas" />
-        <item itemvalue="Application.CalculoSalario" />
-        <item itemvalue="Application.CalculoDiferencaProduto" />
-        <item itemvalue="Application.AreaCirculo" />
+        <item itemvalue="Application.CalcularValorDoImposto" />
+        <item itemvalue="Application.VerificarEixoQuadrante" />
+        <item itemvalue="Application.VerificarIntervalo" />
+        <item itemvalue="Application.CalcularValorDaConta" />
+        <item itemvalue="Application.CalcularTempoDeJogo" />
       </list>
     </recent_temporary>
   </component>
